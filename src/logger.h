@@ -1,3 +1,12 @@
+/**
+ * logger.h -- header wrapping logging methods
+ *
+ * Author: Nikita Tatiannikov 
+ * Written on Monday, 14 May 2021.
+ * Copyright (c) 2021
+ * https://github.com/Jorgenssen/primitive_logger/
+ */
+
 #ifndef LOGGER_H
 #define LOGGER_H
 
